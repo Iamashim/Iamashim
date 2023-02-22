@@ -1,4 +1,4 @@
-# JioTVServer
+# Jio_IPTV
 
 Grab streaming links of JioTV channels and play on mobile, PC etc..
 
